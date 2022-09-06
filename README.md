@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @Ejdmsk
-- 👀 I’m interested in ...Frontend development
-- 🌱 I’m currently learning ...HTML,CSS,Javascript
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m interested in Frontend development
+- 🌱 I’m currently learning HTML,CSS,Javascript
+
 
 <!---
 Ejdmsk/Ejdmsk is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
